@@ -1,6 +1,14 @@
 html, body {
-    background-color: rgb(80, 226, 236);
+    background-color: #D1C6AD;
   }
   h1 {
-    background-color: rgb(222, 231, 208);
+    background-color: #BBADA0;
+  }
+
+  h2 {
+    background-color: #BBADA0;
+  }
+
+  nav {
+    background-color: #A1869E;
   }
