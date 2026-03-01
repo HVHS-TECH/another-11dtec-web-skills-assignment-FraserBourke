@@ -3,6 +3,10 @@ html, body {
   }
   h1 {
     background-color: #BBADA0;
+    border: 0.1cm;
+    border:#080608;
+  
+
   }
 
   h2 {
@@ -11,4 +15,5 @@ html, body {
 
   nav {
     background-color: #A1869E;
+    padding: 0.25cm;
   }
